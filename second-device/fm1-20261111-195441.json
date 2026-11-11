@@ -1,0 +1,13 @@
+{
+  "model": "FM-1",
+  "bootloader": "stock (M-VAVE)",
+  "firmware": "FM-1 015 (stock)",
+  "app": "OK",
+  "chip key": "0x980F",
+  "flash": "0x856014",
+  "unit id": "4150354433333610",
+  "loader": "M-Flasher 1.3, CPU at 96 MHz",
+  "sha256": "76d42007ab6282d73663f48136bc3fd0b1b55f2905bc73329d908716b8fc01f1",
+  "saved": "20261111-195441",
+  "tool": "m-flasher 0.11.0"
+}
